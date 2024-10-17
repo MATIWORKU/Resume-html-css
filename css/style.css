@@ -67,3 +67,7 @@ footer > p{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
 }
+
+h6{
+    text-align: start;
+}
